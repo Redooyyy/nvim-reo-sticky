@@ -1,0 +1,1 @@
+-- plugin default behavior and setup

@@ -10,6 +10,7 @@ M.settings = {
   signcolumn = 'no',
 }
 
+-- default keymaps
 -- Keymaps
 M.keymaps = {
   { mode = 'n', lhs = '<leader>q', rhs = ':q<CR>' },

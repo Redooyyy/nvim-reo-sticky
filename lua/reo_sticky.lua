@@ -31,7 +31,7 @@ function M.apply_keymaps()
   end
 end
 
--- Convenience function to setup everything
+-- setup function
 function M.setup()
   M.apply_settings()
   M.apply_keymaps()
